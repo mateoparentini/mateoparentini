@@ -48,6 +48,5 @@
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=mateoparentini&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mateoparentini)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mateoparentini&theme=material-palenight)](https://github.com/mateoparentini)
+[![](https://github-readme-stats.vercel.app/api?username=mateoparentini&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mateoparentini) [![](https://github-readme-streak-stats.herokuapp.com/?user=mateoparentini&theme=material-palenight)](https://github.com/mateoparentini)
 </div>

@@ -39,6 +39,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateoparentini&show_icons=true&locale=en" alt="mateoparentini" /></p>
+
 </div>
 
 

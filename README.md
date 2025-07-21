@@ -40,7 +40,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateoparentini&show_icons=true&locale=en" alt="mateoparentini" /></p>
 
 </div>
 
@@ -52,4 +51,7 @@
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=mateoparentini&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mateoparentini) [![](https://github-readme-streak-stats.herokuapp.com/?user=mateoparentini&theme=material-palenight)](https://github.com/mateoparentini)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateoparentini&" alt="mateoparentini" /></p>
+
 </div>
